@@ -7,7 +7,6 @@ from pyfiglet import figlet_format
 from colorama import *
 from pystyle import Center, Colors, Colorate, Box
 from bs4 import BeautifulSoup as BS
-import _func_
 
 def main():
     os.system("cls" if os.name == "nt" else "clear")
